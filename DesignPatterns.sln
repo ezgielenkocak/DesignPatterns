@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRSDesignPattern", "CQRSDesignPattern", "{54324CC3-ACFC-4CD4-980E-15914FB2DED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.CQRS", "CQRSDesignPattern\DesignPattern.CQRS\DesignPattern.CQRS.csproj", "{5993A924-3735-4C38-B182-160FD56F2CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5993A924-3735-4C38-B182-160FD56F2CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5993A924-3735-4C38-B182-160FD56F2CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5993A924-3735-4C38-B182-160FD56F2CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5993A924-3735-4C38-B182-160FD56F2CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5993A924-3735-4C38-B182-160FD56F2CF9} = {54324CC3-ACFC-4CD4-980E-15914FB2DED1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71DF3443-1A31-4ACF-8B8D-5034E52881AF}
+	EndGlobalSection
+EndGlobal
